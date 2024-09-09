@@ -5,8 +5,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 import java.lang.*;
-import InnerClass.*;
-//class TalkingClock{}
+
 
 public class ReflectionTest  {
     public static void main(String[] args) {
